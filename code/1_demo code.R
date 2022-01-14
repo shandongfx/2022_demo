@@ -159,3 +159,6 @@ myv = 1:50
 mid_i = length(myv)/2 
 last_i = length(myv)
 myv[mid_i:last_i]
+
+
+# Dan, Luis note
